@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Zemoga Posts</string>
+    <string name="item_title_post_label">Title</string>
+    <string name="item_post_description_label">Description</string>
+    <string name="item_post_comments_label">Comments</string>
 </resources>
